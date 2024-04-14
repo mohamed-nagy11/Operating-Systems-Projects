@@ -28,6 +28,3 @@ The program takes command-line arguments to determine the type of process to cre
 - Semaphores and variables are initialized in shared memory.
 - Child processes exit with `exit(0)` to signify normal termination, and abnormal terminations are printed by the parent process.
 
-## Acknowledgment:
-
-- This assignment was done in pair with `Ibrahim Elseidi`.
