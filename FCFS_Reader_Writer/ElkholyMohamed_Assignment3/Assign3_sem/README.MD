@@ -22,6 +22,3 @@ Run the makefile using the command `make`.
 
 The program takes command-line arguments to determine the type of thread to create. The command-line arguments, which should be either 0 or 1, determine whether the thread is a reader (0) or writer (1). For example, ./sem_exe 1 0 0 1 0 1 1 0 1 0
 
-## Acknowledgment:
-
-- This assignment was done in pair with `Ibrahim Elseidi`.
