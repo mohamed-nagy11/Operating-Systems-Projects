@@ -1,3 +1,3 @@
 # Operating Systems Projects
-### CSCE451 - University of Nebraska-Lincoln
-#### Fall2023
+### CSCE451 - Fall2023
+#### University of Nebraska-Lincoln
